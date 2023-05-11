@@ -21,6 +21,9 @@ This scene allows you to visualize motion planning on an undirected graph using 
 
 3. A_STAR_GRAPH_CODE.ipynb: notebook contains all the functions and their implementation.
 
-<> The 'CSV' folder (written in PYTHON) consists of three  files:
+<> The 'CSV' folder consists of all the csv files
+
+<> CoppeliaSim_Screenshot.png: A CoppeliaSim screenshot of the solution path on the graph
+
 
 <NOTE> The edges 4 to 7 was excluded from the edges file. That was done by commenting it out in the 'edges.csv'.
