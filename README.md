@@ -1,4 +1,4 @@
-Here's the organized markdown message:
+# A* GRAPH SEARCH PROJECT
 
 ### GOAL:
 To write program that takes two files as input, "nodes.csv and edges.csv", implements A* search to find a minimum-cost path through an undirected graph, and produces a single file as output, "path.csv". The CSV Motion Planning Kilobot CoppeliaSim scene will be used to visualize the graph and the solution path found by the written program. The A* graph search to be implemented is for fully general undirected weighted graphs. As such, the nodes could represent configurations in arbitrary C-spaces, such as the six-dimensional C-space of the rigid chassis of a spacecraft flying among asteroids. The nodes of the graph are visualized as points in a plane, for simplicity.
@@ -24,4 +24,5 @@ This scene allows you to visualize motion planning on an undirected graph using 
 
 <> `CoppeliaSim_Screenshot.png`: A CoppeliaSim screenshot of the solution path on the graph
 
-<NOTE> The edges 4 to 7 was excluded from the edges file. That was done by commenting it out in the `edges.csv`.
+#### NOTE:
+The edges 4 to 7 was excluded from the edges file. That was done by commenting it out in the `edges.csv`.
